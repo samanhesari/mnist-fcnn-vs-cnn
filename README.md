@@ -1,0 +1,1 @@
+# mnist-fcnn-vs-cnn
