@@ -1,3 +1,13 @@
+what to do 
+1- load mnist
+2- print some images
+3-0 build models
+4- train models
+5- evaluate models
+6- compare results
+7- have a good visualiztion
+
+
 # MNIST: MLP vs CNN Comparison
 
 ## 🧠 Overview
